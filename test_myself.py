@@ -9,8 +9,9 @@ numbers= [5,2,5,2,2]
 # for item in numbers:
 #     print(item * "X")
 
-for item_count in numbers:
-    output = ''
-    for count in range(item_count):
-        output += "X"
-    print(output)
+# for item_count in numbers:
+#     output = ''
+#     for count in range(item_count):
+#         output += "X"
+#     print(output)
+
